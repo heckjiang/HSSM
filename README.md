@@ -12,5 +12,6 @@
 - 统一的异常处理
 - JSP JSTL JavaScript
 
-###**架构图：**
+### **架构图：**
+
 ![](http://i.imgur.com/vc6iu0X.png)
